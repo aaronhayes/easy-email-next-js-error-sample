@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@arco-design/web-react": "^2.33.1",
+    "@arco-themes/react-easy-email-theme": "^0.0.3",
+    "easy-email-core": "^4.1.9",
+    "easy-email-editor": "^4.1.8",
+    "easy-email-extensions": "^4.1.9",
+    "mjml-browser": "^4.12.0",
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-final-form": "^6.5.9"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
